@@ -25,8 +25,8 @@
 代码
 ```
 
-
-![Alt](http://10.45.4.227/images/test.png)
+![test](https://raw.githubusercontent.com/eelfly/manualWithMarkdown/master/test%20folder/images/test.png)
+![Alt](images/test.png)
 
 |测试|内容 |
 | :----|:--|
@@ -55,5 +55,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2ODMyNzkxXX0=
+eyJoaXN0b3J5IjpbOTY3NDE1NzE0XX0=
 -->
