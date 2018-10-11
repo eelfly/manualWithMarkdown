@@ -7,37 +7,39 @@
 正文
 	缩进正文？？
 
-
-
-
 **加粗**
-*emphasized text*
+*斜体*
 
-
-
-~~strikethrough text~~
 
 > **Notes**
-> 1. this is test for note
-> 2. another test for note
-> test note
+> > 1. Notes Sequence list
+> 2. Long notes Sequence list Long notes Sequence list Long notes Sequence list
+> 
+> Notes 正文
+> 
+> - Notes List
+> - Long notes List Long notes List Long notes List Long notes List Long notes List
 > 
 
-    code
+```
+代码
+```
 
+
+![Alt](http://10.45.4.227/images/test.png)
 
 |测试|内容 |
-|--|--|
+| :----|:--|
 |  测试|内容 |
-|  长内容长内容|长内容长内容 |
+|  长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容|长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容长内容|
 | 1 列表<br>| |
 
 
 - 列表
 - 列表
-	- 列表
-	- 列表
-	- 列表 长度
+	- 缩进列表
+	- 缩进列表
+	- 缩进列表
 		- 列表
 
 1. 有序列表
@@ -53,5 +55,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg4OTQzNTBdfQ==
+eyJoaXN0b3J5IjpbNjI2ODMyNzkxXX0=
 -->
