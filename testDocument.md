@@ -4,6 +4,22 @@
 #### Title4
 ##### Title5
 ###### title6
+正文
+
+**加粗**
+*emphasized text*
+
+~~strikethrough text~~
+
+> **Notes**
+> 1. this is test for note
+> 2. another test for note
+> test note
+> 
+
+    code
+
+
 |测试|内容 |
 |--|--|
 |  测试|内容 |
@@ -23,9 +39,11 @@
 	2. 有序列表
 4. 有序列表
 	1. 无需列表
-	2. 无需列表
+	2. 测试插入
+	3. 无需列表
 5. 有序列表
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzcwOTE0MF19
+eyJoaXN0b3J5IjpbLTEzMjE1NzM4Ml19
 -->
